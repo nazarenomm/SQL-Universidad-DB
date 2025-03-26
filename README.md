@@ -1,4 +1,4 @@
-# Trabajo Final SQL - UniversidadDB
+# Trabajo Final SQL - Sistema de Gestión Universitaria
 
 Este repositorio contiene el trabajo final de la materia Lenguaje SQL de la carrera Licenciatura en Ciencia de Datos en la Universidad Nacional de San Martín.
 
